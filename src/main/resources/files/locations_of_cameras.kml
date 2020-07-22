@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cameras</name>
+    <description/>
+    <Style id="icon-1535-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1535-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1535-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1535-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1535-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>м. Київ на 11.03</name>
+      <Placemark>
+        <name>вул. Олени Теліги, 39 </name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.4535625,50.479839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Набережне шосе, 4 </name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5291932,50.4572271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дніпровська набережна, перехрестя з вулицею Причальна</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5933727,50.4174304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>вулиця Братиславська, 18</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.6250578,50.4678862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Чоколівський бульвар, 24</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.4553665,50.4312861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Північний міст в напрямку лівого берегу</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5397677,50.4918432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Північний міст в напрямку правого берегу</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5397449,50.4918743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Броварський проспект, м. Лівобережна</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5980405,50.4519761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Броварський проспект, вул. Будівельників</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.6098819,50.4554022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Південний міст в напрямку лівого берегу</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5967399,50.3945124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Південний міст в напрямку правого берегу</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5967418,50.3946206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>проспект Героїв Сталінграда, 25</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5087583,50.5070659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>проспект Володимира Маяковського</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.61926,50.5208611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>проспект Володимира Маяковського</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.6149582,50.5136185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дружби народів бульвар</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.545801,50.4186346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дружби народів бульвар</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5449208,50.4181656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Столичне шосе, в напрямку м. Київ</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5607383,50.3282112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Столичне шосе, в напрямку м. Київ</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.560747,50.3281881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Харківська площа / проспект Миколи Бажана</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.6833725,50.4029382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Харківська площа / проспект Миколи Бажана</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.6830012,50.4018537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ХАРКІВ - ДОВЖАНСЬКИЙ </name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.085828805,50.307689466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ХАРКІВ - ДОВЖАНСЬКИЙ</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.776737712,50.206526523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ХАРКІВ - ДОВЖАНСЬКИЙ</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.776124891,50.206349063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.4220156,50.3461606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.417507574,50.342830936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.387992873,50.318085323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.345964549,50.281932801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.344920959,50.279347824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.310923782,50.258287315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.306940114,50.256225699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.250308779,50.214179175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОДЕСА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.250002522,50.213358378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ЧОП</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.225973513,50.446310145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ЧОП</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.226586532,50.446327614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ЧОП</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.886017119,50.421495303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ЧОП</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.835235967,50.418557212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ЧОП</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.607616926,50.412136102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - КОВЕЛЬ - ЯГОДИН</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.28347603,50.553370914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - КОВЕЛЬ - ЯГОДИН</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.187879899,50.544098493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - КОВЕЛЬ - ЯГОДИН</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.098156945,50.568831759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - КОВЕЛЬ - ЯГОДИН</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.018298938,50.596001071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ЗНАМЯНКА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.554389152,50.253120067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ЗНАМЯНКА</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.554770341,50.253229051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОБУХІВ</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.643353059,50.226536403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>КИЇВ - ОБУХІВ</name>
+        <styleUrl>#icon-1535-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.644214899,50.225720333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
